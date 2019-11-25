@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: MEng in Computer Science
+  - course: MSc in Computer Science
     institution: University of Chinese Academy of Sciences
     year: 2019-2022
   - course: Research Intern in Visual Search Team
@@ -50,7 +50,7 @@ social:
   icon_pack: fas
   link: 'ustbbzch@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/zechen-bai-113177179/
 - icon: github
   icon_pack: fab
@@ -78,6 +78,6 @@ Zechen Bai is currently a post-graduate student in University of Chinese Academy
 
 His research interests currently focus on computer vision and visual search. He has experiences in image classification, image retrieve, representation learning and image caption.
 
-Zechen is expected to complete M.Eng. degree in Computer Science by 2022 Summer and applying for Ph.D starting from 2022 Fall. Here is his Curriculum Vitae. 
+Zechen is expected to complete M.S. degree in Computer Science by 2022 Summer and applying for Ph.D starting from 2022 Fall. Here is his [Curriculum Vitae](files/cv.pdf). 
 
 He is currently looking for a research internship opportunity!
