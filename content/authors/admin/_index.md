@@ -36,7 +36,7 @@ education:
     year: 2019
   - course: Sponsored Exchange Student
     institution: National Taipei University of Technology
-    year: 2017, Fall
+    year: Fall, 2017
   - course: BE in Computer Science & Technology
     institution: University of Science and Technology Beijing
     year: 2015-2019
@@ -74,10 +74,8 @@ user_groups:
 # - Visitors
 ---
 
-Zechen Bai is currently a post-graduate student in University of Chinese Academy of Sciences. He received B.E. degree from University of Science and Technology Beijing in 2019. He was a research intern in Visual Search Team of ByteDance AI-Lab from Feb to Aug, 2019, supervised by [Yonghua Zhang](https://dblp.org/pers/hd/z/Zhang:Yonghua) and [Wei-Ying Ma](https://scholar.google.com/citations?user=SToCbu8AAAAJ&hl=en). Prior to that, he worked with [Weiming Dong](http://www.weimingdong.org) and [Xu-Cheng Yin](http://prir.ustb.edu.cn/yin/home/) as a research undergraduate. He also worked as a system engineer intern in Douban.Inc in 2018.
+Zechen Bai is currently a post-graduate student in University of Chinese Academy of Sciences. He received B.E. degree from University of Science and Technology Beijing in 2019. He was a research intern in Visual Search Team of ByteDance AI-Lab from Feb to Aug, 2019, supervised by [Yonghua Zhang](https://dblp.org/pers/hd/z/Zhang:Yonghua) and [Wei-Ying Ma](https://scholar.google.com/citations?user=SToCbu8AAAAJ&hl=en). Prior to that, he worked with [Weiming Dong](http://www.weimingdong.org) and [Xu-Cheng Yin](http://prir.ustb.edu.cn/yin/home/) as a research undergraduate.
 
 His research interests currently focus on computer vision and deep learning. He has experiences in image classification, image retrieve, representation learning and image caption.
 
 Zechen is expected to complete M.S. degree in Computer Science by 2022 Summer and applying for Ph.D starting from 2022 Fall. Here is his [Curriculum Vitae](files/cv.pdf). 
-
-He is currently looking for a research internship opportunity!
