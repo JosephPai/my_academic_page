@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -33,12 +33,21 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  title = "Research Intern"
+  company = "Infimind Tech"
+  company_url = "https://www.aifashion.com"
+  location = "Beijing, China"
+  date_start = "2018-10-01"
+  date_end = "2019-01-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "System Engineer"
+  company = "Douban"
+  company_url = "http://www.douban.com"
+  location = "Beijing, China"
+  date_start = "2018-01-01"
+  date_end = "2018-03-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
