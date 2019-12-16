@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Working Experience"
 subtitle = ""
 
 # Date format for experience
@@ -25,11 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = "2019-08-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Devised, implemented and deployed an object grounded Image-Text matching model for Toutiao image retrieving.
+  * Proposed a novel and robust Image Captioning method, accepted by AAAI-2020.
+  * Devised a semi-supervised similar image retrieving approach for TikTok.
   """
 
 [[experience]]
@@ -39,7 +37,10 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2018-10-01"
   date_end = "2019-01-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * Applying Computer Vision to clothing attributes labeling.
+  * Devised and implemented a clothing image classification model for ECPro system.
+  """
 
 [[experience]]
   title = "System Engineer"
@@ -48,6 +49,10 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2018-01-01"
   date_end = "2018-03-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * Developed and tested the TFRecords RDD.
+  * Optimized GZip RDD, dopting them to a cascade fashion. 
+  * Mmerged to master branch Dpark repository.
+  """
 
 +++
