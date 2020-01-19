@@ -76,6 +76,6 @@ user_groups:
 
 Zechen Bai is currently a post-graduate student in University of Chinese Academy of Sciences. He received B.E. degree from University of Science and Technology Beijing in 2019. He was a visiting student in Nanyang Technological University supervised by Prof.[Nadia Magnenat Thalmann](https://en.wikipedia.org/wiki/Nadia_Magnenat_Thalmann) during 2019 winter. He was also a research intern in Visual Search Team of ByteDance AI-Lab from Feb to Aug, 2019, supervised by [Yonghua Zhang](https://dblp.org/pers/hd/z/Zhang:Yonghua) and [Wei-Ying Ma](https://scholar.google.com/citations?user=SToCbu8AAAAJ&hl=en). Prior to that, he worked with [Weiming Dong](http://www.weimingdong.org) and [Xu-Cheng Yin](http://prir.ustb.edu.cn/yin/home/) as a research undergraduate.
 
-His research interests currently focus on computer vision and deep learning. He has experiences in image classification, image representation learning, image caption and GAN.
+His research interests currently lies in the intersection of computer vision, deep learning and human-computer interaction. He has experiences in image classification, visual search, image caption and GAN.
 
 Zechen is expected to complete M.S. degree in Computer Science by 2022 Summer and applying for Ph.D starting from 2022 Fall. Here is his [Curriculum Vitae](files/cv.pdf). 
