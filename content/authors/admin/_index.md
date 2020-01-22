@@ -78,4 +78,4 @@ Zechen Bai is currently a post-graduate student in University of Chinese Academy
 
 His research interests currently lies in the intersection of computer vision, deep learning and human-computer interaction. He has experiences in image classification, visual search, image caption and GAN.
 
-Zechen is expected to complete M.S. degree in Computer Science by 2022 Summer and applying for Ph.D starting from 2022 Fall. Here is his [Curriculum Vitae](files/cv.pdf). 
+<!-- Zechen is expected to complete M.S. degree in Computer Science by 2022 Summer and applying for Ph.D starting from 2022 Fall. Here is his [Curriculum Vitae](files/cv.pdf).  -->
