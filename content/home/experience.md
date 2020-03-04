@@ -17,30 +17,31 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Research Intern"
-  company = "ByteDance (Tik Tok) AI-Lab"
-  company_url = "https://ailab.bytedance.com"
-  location = "Beijing, China"
-  date_start = "2019-02-01"
-  date_end = "2019-08-01"
-  description = """
-  * Devised, implemented and deployed an object grounded Image-Text matching model for Toutiao image retrieving.
-  * Proposed a novel and robust Image Captioning method, accepted by AAAI-2020.
-  * Devised a semi-supervised similar image retrieving approach for TikTok.
-  """
 
-[[experience]]
-  title = "Research Intern"
-  company = "Infimind Tech"
-  company_url = "https://www.aifashion.com"
-  location = "Beijing, China"
-  date_start = "2018-10-01"
-  date_end = "2019-01-01"
-  description = """
-  * Applying Computer Vision to clothing attributes labeling.
-  * Devised and implemented a clothing image classification model for ECPro system.
-  """
+#[[experience]]
+#  title = "Research Intern"
+#  company = "ByteDance (Tik Tok) AI-Lab"
+#  company_url = "https://ailab.bytedance.com"
+#  location = "Beijing, China"
+#  date_start = "2019-02-01"
+#  date_end = "2019-08-01"
+#  description = """
+#  * Devised, implemented and deployed an object grounded Image-Text matching model for Toutiao image retrieving.
+#  * Proposed a novel and robust Image Captioning method, accepted by AAAI-2020.
+#  * Devised a semi-supervised similar image retrieving approach for TikTok.
+#  """
+
+#[[experience]]
+#  title = "Research Intern"
+#  company = "Infimind Tech"
+#  company_url = "https://www.aifashion.com"
+#  location = "Beijing, China"
+#  date_start = "2018-10-01"
+#  date_end = "2019-01-01"
+#  description = """
+#  * Applying Computer Vision to clothing attributes labeling.
+#  * Devised and implemented a clothing image classification model for ECPro system.
+#  """
 
 [[experience]]
   title = "System Engineer"
