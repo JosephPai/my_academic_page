@@ -74,10 +74,10 @@ user_groups:
 # - Visitors
 ---
 
-Zechen Bai is currently a post-graduate student in University of Chinese Academy of Sciences. He received B.E. degree from University of Science and Technology Beijing in 2019. He was a visiting student in Nanyang Technological University supervised by Prof.[Nadia Magnenat Thalmann](https://en.wikipedia.org/wiki/Nadia_Magnenat_Thalmann) during 2019 winter. Prior to that, he worked with [Weiming Dong](http://www.weimingdong.org) and [Xu-Cheng Yin](http://prir.ustb.edu.cn/yin/home/) as a research undergraduate.
+Zechen Bai is currently a post-graduate student in University of Chinese Academy of Sciences supervised by Prof. [Hui Chen](http://people.ucas.ac.cn/~huichen) and Prof. [Hongan Wang](https://dblp.org/pers/w/Wang:Hongan.html). He received B.E. degree from University of Science and Technology Beijing in 2019. He was a visiting student in Nanyang Technological University supervised by Prof. [Nadia Magnenat Thalmann](https://en.wikipedia.org/wiki/Nadia_Magnenat_Thalmann) during 2019 winter. Prior to that, he worked with Assoc. Prof. [Weiming Dong](http://www.weimingdong.org) and Prof. [Xu-Cheng Yin](http://prir.ustb.edu.cn/yin/home/) as a research undergraduate.
 
 <!-- He was also a research intern in Visual Search Team of ByteDance (Tik Tok) AI-Lab from Feb to Aug, 2019, supervised by [Yonghua Zhang](https://dblp.org/pers/hd/z/Zhang:Yonghua) and [Wei-Ying Ma](https://scholar.google.com/citations?user=SToCbu8AAAAJ&hl=en). -->
 
-His research interests currently lies in the intersection of computer vision, deep learning and human-computer interaction. He has experiences in image classification, visual search, image caption and GAN.
+His research interests currently lies in the intersection of computer vision, deep learning and human-computer interaction, especially multimedia analysis and cross-modal generation. He has experiences in image classification, visual search, image captioning and GAN.
 
 <!-- Zechen is expected to complete M.S. degree in Computer Science by 2022 Summer and applying for Ph.D starting from 2022 Fall. Here is his [Curriculum Vitae](files/cv.pdf).  -->
